@@ -9,3 +9,5 @@ While ERP implementation comes with upfront costs and challenges, the long-term 
 - ERP systems streamline manufacturing processes by integrating all data into a single platform.
 - They improve inventory, labor, and production management, helping companies reduce costs.
 - Long-term gains, such as improved efficiency and scalability, make ERP systems a worthy investment for manufacturers.
+
+If you're interested in learning more about how ERP systems can transform your manufacturing processes, visit https://raznameh.org to read the full article!
